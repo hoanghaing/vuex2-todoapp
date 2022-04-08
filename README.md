@@ -4,6 +4,11 @@
 Vue2, vuex, vue router
 Tailwind
 ```
+### Run fake server in folder /json-server for data first:
+```
+npm install
+node server.js
+```
 ## Project setup
 ```
 npm install
@@ -22,11 +27,6 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
-```
-### In json-server:
-```
-npm install
-node server.js
 ```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
