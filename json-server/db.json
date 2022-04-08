@@ -1,0 +1,27 @@
+{
+	"todos": [{
+			"id": 1,
+			"title": "Hoc code HTML",
+      "description": "HTML la ngon ngu co ban de xay dung cau truc website",
+			"status": "completed"
+		},
+		{
+			"id": 2,
+			"title": "Hoc code CSS",
+      "description": "CSS la ngon ngu dung de dinh dang kieu cach cho website",
+			"status": "doing"
+		},
+		{
+			"id": 3,
+			"title": "Hoc code JS",
+      "description": "Javascript giup nguoi giup cac thao tac, su kien tren website",
+			"status": "doing"
+		},
+    {
+			"id": 4,
+			"title": "Hoc code Vue",
+      "description": "La mon framework nang cao hon cua javascript",
+			"status": "completed"
+		}
+	]
+}
